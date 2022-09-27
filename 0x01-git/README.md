@@ -1,2 +1,1 @@
-mkdir dash
-updated
+mkdir dash updated
